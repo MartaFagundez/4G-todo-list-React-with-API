@@ -1,0 +1,11 @@
+.colorPurple {
+  color: rgb(179, 131, 226);
+}
+
+.colorGray {
+  color: rgb(108, 76, 130);
+}
+
+.colorLightGray {
+  color: hsl(274, 32%, 68%);
+}
